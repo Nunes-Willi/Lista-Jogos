@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://conteudo.imguol.com.br/c/entretenimento/68/2019/01/07/os-10-melhores-jogos-de-2018-na-opiniao-do-uol-jogos-1546887965085_v2_1920x1080.jpg);
+}
+
+h1{
+    color: red;
+}
+
+.container{
+    width: 45%;
+    margin: 20px auto 0px auto;
+    /* background-color: rgb(4, 250, 217); */
+    border-radius: 10px;
+    background-image: url(https://manifesto55.com/wp-content/themes/yootheme/cache/como-utilizar-jogos-para-potencializar-a-aprendizagem-trabalho-em-equipe-e-cocriacao-bc992e95.jpeg);
+}
+
+ul li {
+    list-style-type: none;
+}
+
+input[type="text"] {
+    height: 40px;
+    width: 80%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+button {
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.removed {
+    color: gray;
+}
+
+.removed label {
+    text-decoration: line-through;
+}
